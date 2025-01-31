@@ -2,7 +2,7 @@
 name = "docs-boilerplate"
 version = "0.0.1"
 description = "A boilerplate for Blue Robotics documentation projects, built on the Sphinx framework."
-authors = ["Blue Robotics"]
+authors = ["TechDocs Studio <info@techdocs.studio>"]
 exclude = [".github", "docs"]
 readme = "README.md"
 package-mode = false
